@@ -15,4 +15,4 @@
 <br> Output - plots in black and white and plots in color (2 PNGs)
 <br>
 
-(I have included a plot of the air temperate measured with each bat spp. Though it's not relevant to the other plots, it provides a better picture of the background for this study.) 
+(I have included a plot of the air temperate measured with each bat spp. Though it's not totally beneficial, it provides a better picture of the background for this study.) 
