@@ -6,7 +6,7 @@
 <ins>Folders</ins>
 <br> Data - raw bat data by Rummel at al.
 <br> Code - R code to tidy and plot data
-<br> Output - plot in black and white (BatDatBW) and plots in color (BatDatColor) 
+<br> Output - plot in black and white (BatDatBW) and plot in color (BatDatColor) 
 <br>
 
 <ins>Terms in R Code</ins>
