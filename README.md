@@ -26,7 +26,7 @@
 <br> Sampling time - how long all measurements took - this was removed to tidy data
 <br>
 
-(I have included a plot of the air temperate measured with each bat spp. Though it's not totally beneficial, it provides a better picture of the background for this study.) 
+(I have included a plot of the air temperate measured with each bat spp. Though it's not totally coupled to the other data, it provides a better picture of the background for this study.) 
 <br>
 
 
