@@ -28,5 +28,4 @@
 
 (I have included a plot of the air temperate measured with each bat spp. Though it's not totally beneficial, it provides a better picture of the background for this study.) 
 <br>
-[https://media.giphy.com/media/8w3ksZxYqGvjAkoWPF/giphy.gif?cid=ecf05e4740d2333l9pwklu5w34xw0ufxe4i9kz2itjxvcycd&ep=v1_gifs_search&rid=giphy.gif&ct=g
-](https://media.giphy.com/media/13BFNVlzs1km1W/giphy.gif?cid=790b7611zlhhnso9prfz0q2y3yukl92iu7khtr183mqp78se&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media.giphy.com/media/13BFNVlzs1km1W/giphy.gif?cid=790b7611zlhhnso9prfz0q2y3yukl92iu7khtr183mqp78se&ep=v1_gifs_search&rid=giphy.gif&ct=g
+<iframe src="https://giphy.com/embed/QrtxxtOqJASveZFK1C" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-season-3-the-office-tv-QrtxxtOqJASveZFK1C">via GIPHY</a></p>
