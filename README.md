@@ -28,4 +28,4 @@
 
 (I have included a plot of the air temperate measured with each bat spp. Though it's not totally beneficial, it provides a better picture of the background for this study.) 
 <br>
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFqcHZhZW9veWtvMzM4aGpmZ3VwNTRzMnh2dGowYWE1bDdpbTE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m5JCL5e3YMVtqnTR2Q/giphy.gif
+
