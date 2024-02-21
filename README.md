@@ -28,4 +28,6 @@
 
 (I have included a plot of the air temperate measured with each bat spp. Though it's not totally beneficial, it provides a better picture of the background for this study.) 
 <br>
-<iframe src="https://giphy.com/embed/QrtxxtOqJASveZFK1C" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-season-3-the-office-tv-QrtxxtOqJASveZFK1C">via GIPHY</a></p>
+
+
+![giphy](https://github.com/NosyShark/BatData/assets/159799076/99ed1826-d080-44b3-a1a8-38eea712ae8c)
