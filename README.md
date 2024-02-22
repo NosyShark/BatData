@@ -1,3 +1,6 @@
+
+![dummy](https://github.com/NosyShark/BatData/assets/4449722/22cb0e7a-0665-4942-ac55-86b12f636cc7)
+
 <ins>Data</ins>
 <br> https://datadryad.org/stash/dataset/doi:10.5061/dryad.6h661t9
 <br> Difference in temperature in different parts of bat's bodies and the air temperature around the bats
